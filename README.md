@@ -202,4 +202,4 @@ ORDER BY deposit_difference DESC;
 
 <h1 align="center">Chase Bank Deposits Trends Analysis</h1>
 
-![header](/assets/header.png)
+![header](/assets/chase_bank_header.png)
