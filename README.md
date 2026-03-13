@@ -3,7 +3,7 @@
 
 <!-- ![header](/assets/chase_bank_header.png)-->
 
-![header](assets\jpmorgan_header.png)
+![header](/assets/jpmorgan_header.png)
 
 <h1 align="center">Chase Bank Deposits Trends Analysis</h1>
 
